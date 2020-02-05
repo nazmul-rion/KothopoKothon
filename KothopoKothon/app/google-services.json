@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853157483694",
+    "firebase_url": "https://kothopokothon-7899a.firebaseio.com",
+    "project_id": "kothopokothon-7899a",
+    "storage_bucket": "kothopokothon-7899a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853157483694:android:c2f75ad3c24057c2ad093f",
+        "android_client_info": {
+          "package_name": "com.example.kothopokothon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853157483694-jkn8kmiot8aq090p8dma2j9ll62n4c0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kothopokothon",
+            "certificate_hash": "9ff412ae606c59c27af116c7726128861a3f0a97"
+          }
+        },
+        {
+          "client_id": "853157483694-086bmkpt66vigd452kfsfis8h6re3no9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-QR1qI-R8kYAldQyjrIsLYf-vEjCuTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853157483694-086bmkpt66vigd452kfsfis8h6re3no9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
